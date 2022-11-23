@@ -28,13 +28,11 @@
 
 ## How To Use
 
-```bash
-Import your connection key
-Press enter to connect
-Check VPN Mode
-```
+- Nekoray </br>
+-- Import your connection key </br>
+-- Press enter to connect </br>
+-- Check VPN Mode
 
-> **Note**
-> 
+
 
 
