@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center"> project <a href="http://" target="_blank"></a></h4>
+<h4 align="center"> client connection <a href="http://" target="_blank"></a></h4>
 
 
 
