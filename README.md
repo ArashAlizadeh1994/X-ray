@@ -1,2 +1,0 @@
-# freedom
-just freedom
