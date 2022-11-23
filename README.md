@@ -14,16 +14,16 @@
 <p align="center">
   <a href="#download-links">Download Links</a> •
   <a href="#how-to-use">How To Use</a> 
-  <a href="#credits"></a> 
-  <a href="#related"></a> 
-  <a href="#license"></a>
+
 </p>
 
 
 
 ## Download Links
 
-* Nekoray [download](https://github.com/MatsuriDayo/nekoray/releases)
+* Nekoray [download](https://github.com/MatsuriDayo/nekoray/releases) (recommended)
+* V2rayN  [download](https://github.com/2dust/v2rayN/releases) Proxifier [download](https://www.proxifier.com/) SSTap   [download](https://sstap-beta.updatestar.com/en)
+
 
 
 ## How To Use
