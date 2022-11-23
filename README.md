@@ -18,14 +18,14 @@
 </p>
 
 
-
+---
 ## Download Links
 
 * Nekoray [download](https://github.com/MatsuriDayo/nekoray/releases) (recommended)
 * V2rayN  [download](https://github.com/2dust/v2rayN/releases) Proxifier [download](https://www.proxifier.com/) SSTap   [download](https://sstap-beta.updatestar.com/en)
 
 
-
+---
 ## How To Use
 
 - Nekoray </br>
@@ -33,6 +33,12 @@
 -- Press enter to connect </br>
 -- Check VPN Mode
 
+- V2rayN </br>
+-- Download V2rayN and Proxifier and [Proxifier Profile](https://github.com/ArashAlizadeh1994/X-ray/tree/main/Proxifier%20profile) </br>
+-- Install Proxifier and Import Proxifier Profile 
+-- Run V2rayN.exe (it dosen't need instalation)
+-- Import your connection key into V2rayN (then press enter to connect)
 
+---
 
 
