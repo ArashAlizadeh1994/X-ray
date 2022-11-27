@@ -21,9 +21,9 @@
 ---
 ## Download Links
 
-* Nekoray [download](https://github.com/MatsuriDayo/nekoray/releases) (recommended)
-* V2rayN  [download](https://github.com/2dust/v2rayN/releases) Proxifier [download](https://www.proxifier.com/) SSTap   [download](https://sstap-beta.updatestar.com/en)
-* Android [download](https://github.com/2dust/v2rayNG/releases)
+* [ Nekoray [download](https://github.com/MatsuriDayo/nekoray/releases) ] (recommended)
+* [ V2rayN  [download](https://github.com/2dust/v2rayN/releases) ] [ Proxifier [download](https://www.proxifier.com/) ] [ SSTap   [download](https://sstap-beta.updatestar.com/en) ]
+* [ Android [download](https://github.com/2dust/v2rayNG/releases) ]
 
 ---
 ## How To Use
