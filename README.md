@@ -34,7 +34,7 @@
 -- Check VPN Mode
 
 - V2rayN </br>
--- Download V2rayN , Proxifier and [Profile](https://github.com/ArashAlizadeh1994/X-ray/tree/main/Proxifier%20profile) </br>
+-- Download V2rayN , Proxifier and [Profile](https://github.com/ArashAlizadeh1994/X-ray/releases/download/Profile/Devilside1994.ppx) </br>
 -- Install Proxifier and Import Profile </br>
 -- Run V2rayN.exe (it dosen't need installation) </br>
 -- Import your connection key into V2rayN (then press enter to connect) </br>
